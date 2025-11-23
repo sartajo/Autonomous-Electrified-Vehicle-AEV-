@@ -60,3 +60,5 @@ Built and tested an Autonomous Electrified Vehicle (AEV) platform integrating VE
 
 **RViz** • SLAM • TF frames • FOC motor control • PID tuning • CSV logging & plotting
 
+<img width="327" height="237" alt="image" src="https://github.com/user-attachments/assets/99186b31-9d46-459f-b5bf-5d6a6758f996" />
+
